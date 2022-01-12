@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Atom programming language
 
 ### Markdown
 
