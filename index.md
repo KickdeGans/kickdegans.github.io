@@ -1,8 +1,6 @@
 ## Atom programming language
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hello world example:
 
 ```markdown
 import system
