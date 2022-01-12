@@ -6,7 +6,7 @@
 import system
 
 method main() {
-    print((link)"Hello world!")
+    print("Hello world!")
 }
 ```
 
