@@ -3,7 +3,7 @@
 ### Hello world example:
 
 ```markdown
-import system
+###import system
 
 method main() {
     print("Hello world!")
